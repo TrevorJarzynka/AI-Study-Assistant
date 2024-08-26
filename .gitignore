@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+
+# React Native
+node_modules/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Environment variables
+.env
+
+# Docker
+.dockerignore
